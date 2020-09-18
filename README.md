@@ -2,6 +2,10 @@
 
 [Reading Hacker](https://example.com) is a speed reading app for Android.
 
+Webpage at https://teapot1234.github.io/teapot123.github.io/
+
+# Bootstrap Themes Weather Apps Theme adapted for Jekyll
+
 
 
 ## Download and Install
