@@ -1,3 +1,19 @@
-remote_theme: thypirate/weather-apps-jekyll
-title: [Reading Hacker]
-description: [Read faster with Reading Hacker!]
+title:             Reading Hacker
+email:             teapot23411@gmail.com
+description: "Read faster with Reading Hacker!"
+author: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-coffeescript
+
+exclude:
+  - LICENSE
+  - README.md
+  - concept.gif
+
+# Social Profiles
+twitter_username: ""
+github_username: "teapot1234"
+facebook_username: ""
