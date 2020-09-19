@@ -4,10 +4,6 @@
 
 Webpage at https://teapot1234.github.io/teapot123.github.io/
 
-# Bootstrap Themes Weather Apps Theme adapted for Jekyll
-
-
-
 ## Download and Install
 You can download the app here on the android store (still work in progress)
 
